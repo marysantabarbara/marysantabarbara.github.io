@@ -2,11 +2,12 @@
 layout: essay
 type: essay
 draft: true
-title: Config Managment
+title: Managing More
 date: 2016-09-12
 labels:
-	-git
-	-configurating managment
+  - git
+  - configuration management
+  - version control
 ---
 
 ##Managing More
