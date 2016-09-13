@@ -1,0 +1,11 @@
+---
+layout: essay
+type: essay
+title: Config Managment
+date: 2016-09-12
+labels:
+	-git
+	-configurating managment
+---
+
+##Managing More
