@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-draft: true
+draft: false
 title: Managing More
 date: 2016-09-12
 labels:
