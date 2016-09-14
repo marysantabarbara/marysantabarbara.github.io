@@ -20,6 +20,6 @@ Picture this, you are back in High School and you were assigned a group to do yo
 
 Programming software is the ultimate group project, so there are multiple methods to manage files in a clean and effective manner. There is a configuration management system called Subversion(SVN), which is very similar to Google Drive, where users can share a folder with each other. For SVN, there is a center repository of files and everyone can get a copy of it and edit that copy and apply those changes to the central repository. The problem with SVN gets a little problematic when multiple developers are working on the same file, unlike Google Doc's multiperson typing. The current popular configuration management system is Git. Git allows everyone to have the same repository and we can edit a file, then push those changes on all of the other repositories. There will not be any problems with people editing the same file.
 
-<img class="ui medium floated rounded image" src="../images/Svn vs Git">
+<img class="ui medium floated rounded image" src="../images/Git vs. Svn.png">
 
 
