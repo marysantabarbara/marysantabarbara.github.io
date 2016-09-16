@@ -30,13 +30,13 @@ There is a configuration management technology called Subversion(SVN), which is 
 
 The most current popular configuration management system is Git. Git allows everyone to have their own repository and they can edit their files, then push those changes on all of the other repositories. There will not be any problems with people editing the same file. A visual representation of these technologies are below.
 
-<img class="ui centered big floated rounded image" src="../images/Git vs. Svn.png">
+<img class="ui centered big rounded image" src="../images/Git vs. Svn.png">
 
 
 ## Git and GitHub
 
 
- <img class= "ui small left rounded image" src="../images/git_logo.png">
+ <img class= "ui small left floated rounded image" src="../images/git_logo.png">
 
 Git is a local version control system that allows any type of project, not just for software development. Git keeps multiple versions of files, so if the newest version has an error, the previous version is retrievable. Many new programmers, like me, understand the problem of not being able to find a bug. Sometimes if I cannot find a bug I will be just restart the program from scratch. Using a version control system like Git will defintely prevent such devastating loss. Git also keeps tracks of roles, so company programmers can submit their work to their supervisors and be approved of the changes. I believe Git can make a work environment healthy and organized.
 
