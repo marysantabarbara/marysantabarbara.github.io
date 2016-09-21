@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-draft: false
+draft: true
 title: High Standards
 date: 2016-09-21
 labels:
