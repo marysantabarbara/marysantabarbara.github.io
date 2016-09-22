@@ -13,6 +13,13 @@ Within every Information and Computer Science (ICS) class I have taken, every pr
 
 ## Integrated Development Environments
 
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/arduino.png">
+  <img class="ui image" src="../images/eclipse.png">
+  <img class="ui image" src="../images/intellij.png">
+  <img class="ui image" src="../images/netbeans.png">
+</div>
+
 An integrated development environment (IDE) is a software editor that programmers can write in. There are outdated IDEs that deserve to be dragged into the recycle bin and are just as useful as Notepad. Then there are other develop environments that help improve the readability of code and productivity of the programmers work. Two examples are Intellij Dea and Eclipse, which are very similar but also very different. Usually an IDE will have an editor, a debugger, a console, and other tools that help programmers write and test code. In an IDE text can be changed, layouts can be made, and standards can be set. You may be thinking, "So what? Why fuss over something so trivial? As long as you can code, then you can get your job done.", but IDEs should not be taken for granted. Think of it this way; have you ever written a ten page essay by hand? Maybe you have, maybe you have not but it does not dismiss the fact that typing an essay takes way less time and looks way more better. It is the same concept for using IDEs. We are not writing code by hand but the difficulty of writing without a IDE is harder than writing an essay with a pencil.
 
 ## Coding Standards
