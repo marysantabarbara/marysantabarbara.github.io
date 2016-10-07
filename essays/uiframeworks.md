@@ -11,7 +11,7 @@ labels:
 
 # How do I make a website?
 
-I will be completely honest, I had no website making abilities ten days ago. If I did make a website it only would have had headers, paragraphs, links, lists and images. It will be a website but not one that makes your eyes widen with approval, oh no. The websites looked as old as I did (you can probably guess my age range since I am a college student). Using html and css made me think it was difficult to make a great looking website because css seemed pretty linear. These were all very simple mechanics that did not make up the definition of a modern day website. Then, came the wonderful world of semantic
+I will be completely honest, I had no website making abilities ten days ago(except for this portfolio but I just followed a template). If I did make a website it only would have had headers, paragraphs, links, lists and images. It will be a website but not one that makes your eyes widen with approval, oh no. The websites looked as old as I did (you can probably guess my age range since I am a college student). Using html and css made me think it was difficult to make a great looking website because css seemed pretty linear. These were all very simple mechanics that did not make up the definition of a modern day website. Then, came the wonderful world of semantic
 
 # Now this is how to make a website!
 
