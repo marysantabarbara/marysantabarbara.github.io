@@ -12,7 +12,7 @@ labels:
   - CSS
   - Semantic ui
 ---
-<img class="ui centered image" src="../images/seeing-stars.jpg">
+<img class="ui image" src="../images/seeing-stars.png">
 
 # Meteor is hard!
 
