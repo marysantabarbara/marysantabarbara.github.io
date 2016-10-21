@@ -13,10 +13,6 @@ labels:
   - Semantic ui
 ---
 
-Did you feel these past two weeks like you were hit on the head with “a small body of matter from outer space that enters the earth’s atmosphere, becoming incandescent as a result of friction and appearing as a streak of light”?
-
-If so, you’re probably not the only one. There is definitely an initial learning curve with Meteor. What did you find difficult? What did you find easy? What did you find cool and interesting?
-
 # Meteor is hard! <img class="ui tiny right floated image" src="../images/seeing-stars.png">
 
 If you are looking at this header and you are thinking I have bad grammar than you need to do more reading on web apps. Do not worry though I am here to teach if you are willing to learn. Yes, meteors from space are hard, but the Meteor I am talking about is a web application platform. It allows programmers, like myself, to create interesting websites for all types of devices. So instead of just seeing a website on your desktop in regular form, Meteor can easily format a website for mobile devices! Also, Meteor allows us to change that website without disrupting the people using it. For programmers this concept is brilliant because it is faster and easier to implement than other web application platforms.
