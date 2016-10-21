@@ -17,7 +17,7 @@ Did you feel these past two weeks like you were hit on the head with “a small 
 
 If so, you’re probably not the only one. There is definitely an initial learning curve with Meteor. What did you find difficult? What did you find easy? What did you find cool and interesting?
 
-# Meteor is hard! <img class="ui small image" src="../images/seeing-stars.png">
+# Meteor is hard! <img class="ui small floated image" src="../images/seeing-stars.png">
 
 If you are looking at this header and you are thinking I have bad grammar than you need to do more reading on web apps. Do not worry though I am here to teach if you are willing to learn. Yes, meteors from space are hard, but the Meteor I am talking about is a web application platform. It allows programmers, like myself, to create interesting websites for all types of devices. So instead of just seeing a website on your desktop in regular form, Meteor can easily format a website for mobile devices! Also, Meteor allows us to change that website without disrupting the people using it. For programmers this concept is brilliant because it is faster and easier to implement than other web application platforms.
 
@@ -25,8 +25,9 @@ I still stick to my original statement that using Meteor is difficult, even if I
 
 ## Luckily, craters are good!
 
-<img class="ui centered medium image" src="../images/meteor-crashing.jpeg">
+<img class="ui centered medium image" src="../images/meteor-crashing.jpg">
 
+There is a theory that states that Meteors are what helped create life on Earth. When Earth was young and developing, the meteors that crashed into it were made out of ice and helped formed oceans. They also brought other chemicals to this planet that eventually made life possible here on Earth. So just like celestial meteors, we have to take the beatings of Meteor in order for us to learn and grow as Web Developers. We have to get bombarded about information on servers, clients, routers, imports, templates, Mongo, etc. There are many more information we have to tackle but learning all of these while making a website is pretty difficult.
 There is a theory that states that Meteors are what helped create life on Earth. When Earth was young and developing, the meteors that crashed into it were made out of ice and helped formed oceans. They also brought other chemicals to this planet that eventually made life possible here on Earth. So just like celestial meteors, we have to take the beatings of Meteor in order for us to learn and grow as Web Developers. We have to get bombarded about information on servers, clients, routers, imports, templates, Mongo, etc. There are many more information we have to tackle but learning all of these while making a website is pretty difficult.
 
 ## Sometimes, meteors are deadly.
