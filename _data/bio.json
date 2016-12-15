@@ -81,6 +81,22 @@
   ],
   "work": [
     {
+      "company": "UH Manao School of Information & Computer Sciences",
+      "position": "Assistanat Computer Technician",
+      "website": "http://www.ics.hawaii.edu/",
+      "startDate": "2016-09",
+      "endDate": "Present",
+      "summary": "Help Desk Assistant for the ICS department.",
+      "highlights": [
+        "Troubleshoot any problems with user accounts or with lab computers.",
+        "Create user accounts for all of the students using the labs.",
+        "Updating each computer within the labs.",
+        "Create new images, and test  new softare.",
+        "Set up builds for ICS teachers and staff.",
+        "Keep the labs and office clean."
+      ]
+    },
+    {
       "company": "UH Manoa School of Communications",
       "position": "Media Lab Assistant",
       "website": "http://uhschoolofcommunications.net/",
