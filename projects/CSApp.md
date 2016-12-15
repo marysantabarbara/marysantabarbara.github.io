@@ -16,11 +16,11 @@ labels:
 summary: CS App made for ICS students to create study sessions.
 ---
 
-<div class="ui medium image">
+<div class="ui fluid image">
     <img class="ui image" src="../images/CSMembers.png">
 </div>
 
-# Collaborative Study
+# The Group Project
 
 The Collaborative Study organization was created for my ICS 314 Final project. Our project was to create an app that will help Information and Computer Science (ICS) majors to connect with other people and study with them. We were a group of four people and in the picture above there are three of us Neal, Me, and Mariah, while Chad was behind the camera taking the picture. We all created mock-ups, but we used most of Chad's mock-ups at the skeleton for our app and just added some of my mock-ups to add more features.
 
