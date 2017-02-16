@@ -12,11 +12,21 @@ labels:
 
 In the fall semester of 2016, I took ICS 314 - Introduction to Software Development. Within that class, the final project was to create some sort of prototype of a web application students of the University of Hawaii to use. I was assigned a group and we created an app called CS (Collaborative Study). This app allows Computer Science students to connect with their classmates and set up study dates. Our submitted app was great for our first prototype but we still have a long way to go. So now in this current semester, Spring 2017, my team will continue making the app be the best app it can be!
 
-# New Features
+# As of right now!
 
-## On February 1
+## February 15
 
-As you all know, we are still in early stages of development. We have been working to fix the bugs we had at the end of the Fall semester. The more bugs we started fixing the more features we wanted to add. So going down the list you will se these changes are seem very little but they are actually really big!
+Ever since February 1, unfortunately I was not able to make much progress with my issues. I have been running in circles with fixing internal issues with posting in a group page. I would fix one problem but another problem will pop up. As I try to fix that problem, the same problem from before will reappear! This dilemma has stopped me in my tracks and I have decided to take a break from it. No, I am not quitting. I am just going to start on other issues as I try to figure out the problem for group posts. Next time, I will not make this type of problem hinder me for so long but I will be more productive or ask my team for assistance. Despite all of this below is a list of what we have accomplished so far as a group.
+
+- Profile picture is fixed and now shows up
+- Courses can be sorted on My Page
+- Editing groups do not delete posts and members
+- Tutorial toggle is now an icon instead of a drop down menu
+- Duplicate sessions are now restricted to reduce data build up
+
+## February 1
+
+As you all know, we are still in early stages of development. We have been working to fix the bugs we had at the end of the Fall semester. The more bugs we started fixing the more features we wanted to add. So going down the list you will se these changes are seem very little but they are actually really big! So far the beginning weeks of our second phase have been productive. I was able to fix the bug to add members to groups now. The member must have an account on CS in order to be added too. My team mate, Mariah, was able to create group sessions right on the group session page. Below is the overall progress Collaborative Study has made.
 
 - Members can now be added to groups and deleted from groups! Before this feature was disabled but now you can actually make groups.
 - Groups can now create study sessions for that group. This will help organize your study groups with the friends you have made.
@@ -25,16 +35,20 @@ As you all know, we are still in early stages of development. We have been worki
 
 # Upcoming
 
-## By February 15
+## By March 1
 
 ### Bug Fixes
 
-- You will be able to add and edit your profile bio.
-- There will be additional settings
-- Groups will be visible to only you and your group members.
-- Groups will be able to be deleted.
+- Group Posts
+- Group page visibility
+- Review visibility
+- Star ratings rounded down
+- Add more admin rights
 
 ### Features
 
-- Posting in groups will be available.
-- Notifications will be able to notify you of any group invites, study sessions, and more!
+- Notifications!!
+- Add/Edit Bio
+- Searching by other options
+
+Check out our current progress: <a href="https://github.com/CollaborativeStudy/CS/projects/7"><i class="large github icon "></i>Project 7</a>
