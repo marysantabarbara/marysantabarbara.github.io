@@ -16,7 +16,7 @@ In the fall semester of 2016, I took ICS 314 - Introduction to Software Developm
 
 ## March 1
 
-Within these last 2 weeks, I have made a significant amount of progress compared to the last session. As I said on February 15, I took a break from the Posting in the Group Page issue and decided to focus on other features. First of all, I changed it so the My Groups tab will only show the users groups. Before, My Groups would actually show every single group made by a user. So now you can only see groups that you are a member of. Second, I added leaders to groups and gave them privelages over regular members. Leaders of groups can delete the entire group and kick any negative members. Also, regular members can leave the group. After I added these features I went back to group posting. Lastly, I am proud to say that I have finally gotten posts to work! I felt so much relief when I overcame this task and I feel like I learned a lot through my endless debugging journey. So the new features are listed below.
+Within these last 2 weeks, I have made a significant amount of progress compared to the last session. As I said on February 15, I took a break from fixing posting in group pages and decided to focus on other features. First of all, I changed the My Groups page to only show the users groups. Before, My Groups would actually show every single group made by a user. So now you can only see groups that you are a member of. Second, I added leaders to groups and gave them privelages over regular members. Leaders of groups can delete the entire group and kick any negative members. Also, regular members can leave the group. After I added these features I went back to group posting. Lastly, I am proud to say that I have finally gotten posts to work! I felt so much relief when I overcame this task and I feel like I learned a lot through my endless debugging journey. So the new features are listed below.
 
 - Private group visibility
 - Group leaders were added
@@ -26,7 +26,7 @@ Within these last 2 weeks, I have made a significant amount of progress compared
   - Leaders can kick members
 - Post in your groups page to make announcements
 
-Check out this project: <a href="https://github.com/CollaborativeStudy/CS/projects/7"><i class="large github icon "></i>Current Project</a>
+Check out this milestone: <a href="https://github.com/CollaborativeStudy/CS/projects/7"><i class="large github icon "></i>Project 7</a>
 
 ## February 15
 
@@ -38,7 +38,7 @@ Ever since February 1, unfortunately I was not able to make much progress with m
 - Tutorial toggle is now an icon instead of a drop down menu
 - Duplicate sessions are now restricted to reduce data build up
 
-Check out this project: <a href="https://github.com/CollaborativeStudy/CS/projects/6"><i class="large github icon "></i>Current Project</a>
+Check out this milestone: <a href="https://github.com/CollaborativeStudy/CS/projects/6"><i class="large github icon "></i>Project 6</a>
 
 ## February 1
 
@@ -49,7 +49,7 @@ As you all know, we are still in early stages of development. We have been worki
 - Sessions are now searchable cards by class or by title. So if you are in desperate need of a study session, just search one up and get in there.
 - Courses on your profile page can be edited and deleted. This way users can properly show their proficiency in each class.
 
-Check out this project: <a href="https://github.com/CollaborativeStudy/CS/projects/5"><i class="large github icon "></i>Current Project</a>
+Check out this milestone: <a href="https://github.com/CollaborativeStudy/CS/projects/5"><i class="large github icon "></i>Project 5</a>
 
 # Upcoming
 
