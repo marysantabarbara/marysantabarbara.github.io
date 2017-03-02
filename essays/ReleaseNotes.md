@@ -14,6 +14,20 @@ In the fall semester of 2016, I took ICS 314 - Introduction to Software Developm
 
 # As of right now!
 
+## March 1
+
+Within these last 2 weeks, I have made a significant amount of progress compared to the last session. As I said on February 15, I took a break from the Posting in the Group Page issue and decided to focus on other features. First of all, I changed it so the My Groups tab will only show the users groups. Before, My Groups would actually show every single group made by a user. So now you can only see groups that you are a member of. Second, I added leaders to groups and gave them privelages over regular members. Leaders of groups can delete the entire group and kick any negative members. Also, regular members can leave the group. After I added these features I went back to group posting. Lastly, I am proud to say that I have finally gotten posts to work! I felt so much relief when I overcame this task and I feel like I learned a lot through my endless debugging journey. So the new features are listed below.
+
+- Private group visibility
+- Group leaders were added
+- Privelages for group leaders were added
+  - Whoever creates the group is the leader
+  - Leaders can delete the group
+  - Leaders can kick members
+- Post in your groups page to make announcements
+
+Check out this project: <a href="https://github.com/CollaborativeStudy/CS/projects/7"><i class="large github icon "></i>Current Project</a>
+
 ## February 15
 
 Ever since February 1, unfortunately I was not able to make much progress with my issues. I have been running in circles with fixing internal issues with posting in a group page. I would fix one problem but another problem will pop up. As I try to fix that problem, the same problem from before will reappear! This dilemma has stopped me in my tracks and I have decided to take a break from it. No, I am not quitting. I am just going to start on other issues as I try to figure out the problem for group posts. Next time, I will not make this type of problem hinder me for so long but I will be more productive or ask my team for assistance. Despite all of this below is a list of what we have accomplished so far as a group.
@@ -24,6 +38,8 @@ Ever since February 1, unfortunately I was not able to make much progress with m
 - Tutorial toggle is now an icon instead of a drop down menu
 - Duplicate sessions are now restricted to reduce data build up
 
+Check out this project: <a href="https://github.com/CollaborativeStudy/CS/projects/6"><i class="large github icon "></i>Current Project</a>
+
 ## February 1
 
 As you all know, we are still in early stages of development. We have been working to fix the bugs we had at the end of the Fall semester. The more bugs we started fixing the more features we wanted to add. So going down the list you will se these changes are seem very little but they are actually really big! So far the beginning weeks of our second phase have been productive. I was able to fix the bug to add members to groups now. The member must have an account on CS in order to be added too. My team mate, Mariah, was able to create group sessions right on the group session page. Below is the overall progress Collaborative Study has made.
@@ -33,17 +49,20 @@ As you all know, we are still in early stages of development. We have been worki
 - Sessions are now searchable cards by class or by title. So if you are in desperate need of a study session, just search one up and get in there.
 - Courses on your profile page can be edited and deleted. This way users can properly show their proficiency in each class.
 
+Check out this project: <a href="https://github.com/CollaborativeStudy/CS/projects/5"><i class="large github icon "></i>Current Project</a>
+
 # Upcoming
 
-## By March 1
+## By March 15
 
 ### Bug Fixes
 
-- Group Posts
-- Group page visibility
 - Review visibility
 - Star ratings rounded down
 - Add more admin rights
+- Improve Homepage Interface
+- Improve chat room interface
+- Clean up calendar
 
 ### Features
 
@@ -51,4 +70,4 @@ As you all know, we are still in early stages of development. We have been worki
 - Add/Edit Bio
 - Searching by other options
 
-Check out our current progress: <a href="https://github.com/CollaborativeStudy/CS/projects/7"><i class="large github icon "></i>Project 7</a>
+Check out our current progress: <a href="https://github.com/CollaborativeStudy/CS/projects/8"><i class="large github icon "></i>Current Project</a>
