@@ -14,6 +14,17 @@ In the fall semester of 2016, I took ICS 314 - Introduction to Software Developm
 
 # As of right now!
 
+## March 15
+
+Recently our group has started planning out how we are going to test CS. In our first weeks meeting we met up and decided to create a usability test. This test will see how easy our app is to use and to learn. We decided how exactly we will conduct our test; how much people we should test at once, how many times we should test someone, if there should be data already on the client and etc. After that, we focused on what we needed to fix on our app in order to start tests. We were only waiting on me to finish up the Reviews feature. I had to make it so the user cannot post a review about themselves on there own profile. However, in order to do that I needed to recreate the schema for Reviews. Before, the schema was way to simple and did not have any authors attached to them. Naturally, when I changed the schema I had to change everything else using. So that task took longer than expected but it was for the better. Reviews are now organized very well for each user. My team mates worked on other features while I tried to perfect reviews so check out all the new features below!
+
+- Review visibility
+- Star ratings rounded down
+- Clean up calendar
+- Searching by other options
+
+Check out this milestone: <a href="https://github.com/CollaborativeStudy/CS/projects/8"><i class="large github icon "></i>Project 8</a>
+
 ## March 1
 
 Within these last 2 weeks, I have made a significant amount of progress compared to the last session. As I said on February 15, I took a break from fixing posting in group pages and decided to focus on other features. First of all, I changed the My Groups page to only show the users groups. Before, My Groups would actually show every single group made by a user. So now you can only see groups that you are a member of. Second, I added leaders to groups and gave them privelages over regular members. Leaders of groups can delete the entire group and kick any negative members. Also, regular members can leave the group. After I added these features I went back to group posting. Lastly, I am proud to say that I have finally gotten posts to work! I felt so much relief when I overcame this task and I feel like I learned a lot through my endless debugging journey. So the new features are listed below.
@@ -53,21 +64,19 @@ Check out this milestone: <a href="https://github.com/CollaborativeStudy/CS/proj
 
 # Upcoming
 
-## By March 15
+## By April 1
 
 ### Bug Fixes
 
-- Review visibility
-- Star ratings rounded down
 - Add more admin rights
 - Improve Homepage Interface
 - Improve chat room interface
-- Clean up calendar
+- Make posts show most recent on the top.
+
 
 ### Features
 
 - Notifications!!
 - Add/Edit Bio
-- Searching by other options
 
-Check out our current progress: <a href="https://github.com/CollaborativeStudy/CS/projects/8"><i class="large github icon "></i>Current Project</a>
+Check out our current progress: <a href="https://github.com/CollaborativeStudy/CS/projects/9"><i class="large github icon "></i>Current Project</a>
