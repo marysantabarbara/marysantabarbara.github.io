@@ -14,6 +14,17 @@ In the fall semester of 2016, I took ICS 314 - Introduction to Software Developm
 
 # As of right now!
 
+## April 1
+
+This week as been filled with some pretty exciting things. Personally, during this week I just fixed minor bugs within the features I have created. However, one of our contributors was able to host our app on his very own server! Now that we have a public domain we can now start testing the usability of the app. As the semester is coming towards an end, it seems like there are fewer things to add to our project. Right now, we are fixing minor bugs we see as we use the app and try to improve it as much as possible. There should only be one more functionality that we plan to add to the app. Once we do the usability test, we will know for sure if there are any big changes we need to make for our app.
+
+- Now live on a server!
+- Fixed user profiles
+- Fixed posting in chronological order
+
+Check out our app: <a href="http://cs.chadmorita.com:3000">CS</a>
+Check out this milestone: <a href="https://github.com/CollaborativeStudy/CS/projects/9"><i class="large github icon "></i>Project 9</a>
+
 ## March 15
 
 Recently our group has started planning out how we are going to test CS. In our first week's meeting we met up and decided to create a usability test. This test will see how easy our app is to use and to learn. We decided how exactly we will conduct our test; how much people we should test at once, how many times we should test someone, if there should be data already on the client and etc. After that, we focused on what we needed to fix on our app in order to start tests. We were only waiting on me to finish up the Reviews feature. I had to make it so the user cannot post a review about themselves on there own profile. However, in order to do that I needed to recreate the schema for Reviews. Before, the schema was way to simple and did not have any authors attached to them. Naturally, when I changed the schema I had to change everything else using it. So that task took longer than expected but it was for the better. Reviews are now organized very well for each user. My team mates worked on other features while I tried to perfect reviews so check out all the new features below!
@@ -64,19 +75,18 @@ Check out this milestone: <a href="https://github.com/CollaborativeStudy/CS/proj
 
 # Upcoming
 
-## By April 1
+## By April 15
 
 ### Bug Fixes
 
-- Add more admin rights
 - Improve Homepage Interface
 - Improve chat room interface
-- Make posts show most recent on the top.
 
 
 ### Features
 
+- Add more admin rights
 - Notifications!!
 - Add/Edit Bio
 
-Check out our current progress: <a href="https://github.com/CollaborativeStudy/CS/projects/9"><i class="large github icon "></i>Current Project</a>
+Check out our current progress: <a href="https://github.com/CollaborativeStudy/CS/projects/10"><i class="large github icon "></i>Current Project</a>
