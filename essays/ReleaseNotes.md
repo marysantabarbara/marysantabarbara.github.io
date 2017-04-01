@@ -23,6 +23,7 @@ This week as been filled with some pretty exciting things. Personally, during th
 - Fixed posting in chronological order
 
 Check out our app: <a href="http://cs.chadmorita.com:3000">CS</a>
+
 Check out this milestone: <a href="https://github.com/CollaborativeStudy/CS/projects/9"><i class="large github icon "></i>Project 9</a>
 
 ## March 15
