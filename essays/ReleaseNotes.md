@@ -13,32 +13,29 @@ labels:
 In the fall semester of 2016, I took ICS 314 - Introduction to Software Development. Within that class, the final project was to create some sort of prototype of a web application students of the University of Hawaii to use. I was assigned a group and we created an app called CS (Collaborative Study). This app allows Computer Science students to connect with their classmates and set up study dates. Our submitted app was great for our first prototype but we still have a long way to go. So now in this current semester, Spring 2017, my team will continue making the app be the best app it can be!
 
 
-# Upcoming
+# Check out our app: <a href="http://cs.chadmorita.com:3000">CS</a>
 
+# Upcoming
 ## By May 1
 
 ### Bug Fixes
-
 - Improve Homepage Interface
 - Improve chat room interface
 - Study Session Creation
 
-
 ### Features
-
 - Add more admin rights
 - Notifications!!
 - Add/Edit Bio
 
 Check out our current progress: <a href="https://github.com/CollaborativeStudy/CS/projects/11"><i class="large github icon "></i>Current Project</a>
 
+   
 # As of right now!
 
 ## April 15
 
 As the semester goes on, our group is slowing down in our production and focusing more on testing. Personally, I am still improving chat interfaces to make it more aesthetically pleasing. I find it more harder to improve the user interface than to improve a functionality. That is because with a functionality I know whether or not it is working properly. With interfaces it is hard to find out what people like within a website or an app. People are so fickle and have different types of preferences. So far I have a chat interface that I enjoy looking at but I will continue to ask others to figure out what kind of things they like within an app. As a group, all of us are focusing a lot on testing our product and reaching out to other students. The testing has been going well. I would see uncommon bugs where something stops working for a while, but at other times it will work. For example, when making a group session some people were able to make it from the calendar but others weren't. Also, when creating group sessions, it will create it but it will not show up on the calendars. We will continue to fix these bugs and do more usability tests in order to find as much bugs as possible.
-
-Check out our app: <a href="http://cs.chadmorita.com:3000">CS</a>
 
 Check out this milestone: <a href="https://github.com/CollaborativeStudy/CS/projects/10"><i class="large github icon "></i>Project 10</a>
 
@@ -49,8 +46,6 @@ This week as been filled with some pretty exciting things. Personally, during th
 - Now live on a server!
 - Fixed user profiles
 - Fixed posting in chronological order
-
-Check out our app: <a href="http://cs.chadmorita.com:3000">CS</a>
 
 Check out this milestone: <a href="https://github.com/CollaborativeStudy/CS/projects/9"><i class="large github icon "></i>Project 9</a>
 
