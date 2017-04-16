@@ -12,8 +12,7 @@ labels:
 
 In the fall semester of 2016, I took ICS 314 - Introduction to Software Development. Within that class, the final project was to create some sort of prototype of a web application students of the University of Hawaii to use. I was assigned a group and we created an app called CS (Collaborative Study). This app allows Computer Science students to connect with their classmates and set up study dates. Our submitted app was great for our first prototype but we still have a long way to go. So now in this current semester, Spring 2017, my team will continue making the app be the best app it can be!
 
-
-# Check out our app: <a href="http://cs.chadmorita.com:3000">CS</a>
+Check out our app: <a href="http://cs.chadmorita.com:3000">CS</a>
 
 # Upcoming
 ## By May 1
@@ -30,7 +29,7 @@ In the fall semester of 2016, I took ICS 314 - Introduction to Software Developm
 
 Check out our current progress: <a href="https://github.com/CollaborativeStudy/CS/projects/11"><i class="large github icon "></i>Current Project</a>
 
-   
+
 # As of right now!
 
 ## April 15
