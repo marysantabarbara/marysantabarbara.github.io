@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 draft: false
-title: Release Notes
+title: CS Release Notes
 date: 2017-01-15
 labels:
   - Release Notes
@@ -14,23 +14,13 @@ In the fall semester of 2016, I took ICS 314 - Introduction to Software Developm
 
 Check out our app: <a href="http://cs.chadmorita.com:3000">CS</a>
 
-# Upcoming
-## By May 1
-
-### Bug Fixes
-- Improve Homepage Interface
-- Improve chat room interface
-- Study Session Creation
-
-### Features
-- Add more admin rights
-- Notifications!!
-- Add/Edit Bio
-
-Check out our current progress: <a href="https://github.com/CollaborativeStudy/CS/projects/11"><i class="large github icon "></i>Current Project</a>
-
-
 # As of right now!
+
+## May 1
+
+It is the final week of instruction for Spring 2017 semester. What our group focused on these couple of weeks is to touch up the CS app and to update our Collaborative Study homepage. We have decided to halt any new additions we have been working on like the new chat ui interface. We are trying to prepare for any public relation for the app. If anyone is interested in the app they can check out our homepage and our Github repository then contact us for a presentation or delivery. Personally, the app has come together very nicely and I believe I learned a lot from this experience. I hope that people who uses our app and looks at our teams homepage will see how much time and effort we have put into this. I am glad I was able to work on this app, it has been one of the biggest projects I have worked on. Maybe one day I will see this app being used by the department, and that will truly push this project into reality.
+
+Check out this milestone: <a href="https://github.com/CollaborativeStudy/CS/projects/10"><i class="large github icon "></i>Project 11</a>
 
 ## April 15
 
